@@ -1,3 +1,4 @@
+pandas
 pycaret
 xgboost
 fastapi
