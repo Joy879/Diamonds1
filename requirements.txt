@@ -1,5 +1,4 @@
 pandas
-pycaret
-xgboost
+pickle
 fastapi
 uvicorn
