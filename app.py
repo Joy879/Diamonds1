@@ -12,7 +12,7 @@ app = FastAPI()
 model = pickle.load(open("diamond_prediction.pkl", "rb"))
 ## Define test function for API calls
 @app.get('/')
-def test(): 
+def main(): 
     return {'Greet': 'hello'}
 
 # Define predict function
